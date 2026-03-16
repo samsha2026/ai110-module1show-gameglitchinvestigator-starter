@@ -40,7 +40,7 @@ Keep fixing until all tests pass!
 
 📸 Demo
 
-![Winning game](Game_glitch.png)
+![Winning game](screenshot.png)
 
 🚀 Stretch Features
 
